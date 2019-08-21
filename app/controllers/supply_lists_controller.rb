@@ -1,2 +1,0 @@
-class SupplyListsController < ApplicationController
-end
