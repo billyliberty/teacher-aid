@@ -1,4 +1,3 @@
 class SupplyItem < ApplicationRecord
-    belongs_to :teacher
-    has_many :supply_items
+    belongs_to :supply_item
 end
